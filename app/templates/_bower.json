@@ -1,0 +1,16 @@
+{
+    "name": "<%= appname %>",
+    "version": "0.0.0",
+    "dependencies": {
+        "lodash": "~3.9.3",
+        "angular": "~1.4.0",
+        "jquery": "~2.1.4",
+        "materialize": "~0.96.1",
+        "ng-chrome-extension-kit" : "guy-mograbi-at-gigaspaces/ng-chrome-extension-kit",
+        "ngDialog" : "~0.4.0"
+    },
+    "resolutions": {
+        "angular": "~1.4.0"
+    }
+}
+
